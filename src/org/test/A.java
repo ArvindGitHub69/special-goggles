@@ -10,6 +10,7 @@ public class A {
 		System.out.println("Email adress is "+next);
 		boolean b = next.contains("@");
 		System.out.println(b);
+		System.out.println("complete");
 		
 	
 				
