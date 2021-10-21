@@ -8,8 +8,9 @@ public class A {
 		
 		String next = sc.next();
 		System.out.println("Email adress is "+next);
-		boolean b = next.contains(".com");
+		boolean b = next.contains("@");
 		System.out.println(b);
+		System.out.println("complete");
 		
 	
 				
